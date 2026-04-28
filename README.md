@@ -1,7 +1,8 @@
-# AirLink EDU
+# Kuuki
 
 ## Project Description
 A **school air quality station** with **live data displayed in the lobby**. Teachers get ready-to-use lesson materials, administration knows **when to ventilate**, and students work with **real data** in projects. Funded by a **Business Angel**. **Deployment: 8–10 weeks**, maintenance: **up to 10 minutes per month**. Future plan: connect schools in Poland and Japan for joint analytics and environmental education.
+
 
 ---
 
