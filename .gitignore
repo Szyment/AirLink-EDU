@@ -1,1 +1,18 @@
+# API keys and private data - NEVER commit
+secrets.h
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.eep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
+Thumbs.db
